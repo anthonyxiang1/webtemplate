@@ -1,0 +1,229 @@
+{
+  "main": {
+    "logo":"bulb.gif",
+    "name":"Anthony Xiang",
+    "area": "",
+    "occupation":"Student, Educator, and Researcher",
+    "school": "",
+    "description":" ",
+    "image":"profilepicEdit.jpg",
+    "bio":"",
+    "contactmessage":"Let's keep in touch! Comments, questions, and concerns can be sent here:",
+    "email": "anthony.xiang1@gmail.com",
+    "email2": "axiang@cs.stonybrook.edu",
+    "phone": "646-288-7028",
+    "address":{
+      "city":"New Hyde Park",
+      "state":"New York",
+      "zip": "11040"
+    },
+    "website": "website",
+    "resumedownload":"resumedownload",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/anthonyxiang",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/anthonyxiang1",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/anthonyxianggg",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/anthony.xiang1",
+        "className":"fa fa-instagram"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Stony Brook University",
+        "degree":"Bachelor of Science, Double major in Statistics & Computer Science, minor in Mathematics",
+        "graduated":"May 2022",
+        "gpa": "4.0",
+        "description":"Undergraduate Teaching Assistant, Chinese Association of Stony Brook, Club Volleyball, Stony Brook Computing Society, Organization of Actuarial Students, SBUHacks Organizing Committee, Student Accessibility Support Center",
+        "courses": "Linear Algebra, Probability and Graph Theory, Object-Oriented Programming, Web Genomics Project Team, Probability and Statistics (F’ 19), Data Structures and Algorithms (F’ 19), Operations Research (F’ 19)",     
+        "desc2": "Presidential Scholarship, New York State Academic Excellence Scholarship, Dean's List (F' 18, S'19)"
+      },
+      {
+        "school":"Great Neck South High School",
+        "degree":"High School",
+        "graduated":"June 2018",
+        "gpa": "96.3",
+        "description":"Varsity Volleyball Co-Captain, International Club President, Varsity Fencing Squad Lead, Quizbowl Team Treasurer, Math Team, Varsity Bowling",
+        "courses": "AP - Statistics, Computer Science, Physics E&M, Physics Mechanics, BC Calculus, US History, Spanish Language, World History, Psychology, Microeconomics, Macroeconomics",
+        "desc2": "Nassau Math Tournament 5th Place, USA Mathematical Talent Search Bronze 2016 and 2017, Princeton University Mathematics Competition Individual Finalist, National History Bowl 15th Place"
+      }
+    ],
+    "work":[
+      {
+        "company":"Stony Brook Biomedical Informatics - Data Management and Biomedical Data Analytics Lab",
+        "title":"Research Assistant",
+        "years":"June 2019 - Present",
+        "d1":"Investigated associations between opioid use and presidential voting patterns in a 10-week summer research program (REU) in Big Spatial and Image Data Analytics under Dr. Fusheng Wang, continuing through the school year.",
+        "d2": "Mapped election, opioid use, and demographic data using ArcGIS and built regression models in Python with SciPy.",
+        "d3": "Reduced cleaning of over 4 million data entries by a week using pandas to format and merge presidential voting data.",
+        "d4": "Communicated results with a culminating research poster and oral presentation to professors, statisticians, doctors, and addiction psychiatrists."
+      },
+      {
+        "company":"Academic Center of Excellence",
+        "title":"Computer Programming Teacher",
+        "years":"January 2019 - Present",
+        "d1":"Leading two weekly programming classes in beginner Python and Scratch/Arduino for 15 students ages 6-15.",
+        "d2": "Improving student learning and retention by designing and implementing interactive course content and exercises."
+      },
+      {
+        "company":"KidOYO",
+        "title":"Mentor",
+        "years":"September 2018 - Present",
+        "d1":"Stimulating classroom engagement by assisting students ages 7-17 one-on-one during classes in Java, Python, and Scratch. ",
+        "d2": "Grading and providing constructive feedback on over 1,500 online coding challenge submissions through the OYOclass platform for over 80 schools across Long Island."
+      },
+      {
+        "company":"Universal Vision Corporation",
+        "title":"Tour Guide",
+        "years":"June 2018 - August 2018",
+        "d1":"Led night bus tours of Manhattan and communicated historical information in both English and Mandarin Chinese to over 50 passengers.",
+        "d2": "Received and efficiently transported guests from LGA and JFK airports to their hotels.",
+        "d3": "Assisted guests in obtaining key cards to hotel rooms."
+      },
+      {
+        "company":"Sharestates Crowdfunding Platform",
+        "title":"Intern",
+        "years":"May 2015 - August 2015",
+        "d1":"Composed real estate articles to share on the main blog of the real estate crowdfunding platform, Sharestates.",
+        "d2": "Created posters and graphic designs to be put on social media sites such as Instagram and Facebook.",
+        "d3": "Researched advertising rates, real estate news, and local neighborhood statistics."
+      }
+    ],
+    "activities":[
+      {
+        "company":"SBUHacks",
+        "title":"Event Coordinator",
+        "years":"May 2019 - Present",
+        "description":"Leading logistical planning for food/snacks, workshops, and activities for a 24-hour student-run hackathon at Stony Brook. Creating layout and itinerary for the event. Communicating with clubs, supervisors, sponsors, and professors to sort out scheduling conflicts."
+      },
+      {
+        "company":"Student Accessibility Support Center",
+        "title":"Mentor",
+        "years":"August 2019 - Present",
+        "description":"Assisting students with disabilities with their transition to college life."
+      },
+      {
+        "company":"Chinese Association at Stony Brook",
+        "title":"Event Coordinator Assistant",
+        "years":"December 2018 - Present",
+        "description":"Worked with Event Coordinators to design layout and itinerary of events catering to 300+ attendees. Promoted Chinese culture through various exciting events and increasing the Chinese presence on campus and beyond."
+      },
+      {
+        "company":"Club Volleyball",
+        "title":"Active Member",
+        "years":"August 2018 - Present",
+        "description":"Participating in various volleyball tournaments at Yale, Columbia, and Hofstra against other collegiate club volleyball teams."
+      },
+      {
+        "company":"Stony Brook Computing Society",
+        "title":"Member",
+        "years":"December 2018 - Present",
+        "description":"Attended career workshops, career fairs, and seminars on compuational best practices."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python, Java, R, HTML/CSS, SQL, JavaScript",
+        "level":"Programming"
+      },
+      {
+        "name":"pandas, seaborn, folium, SciPy, scikit-learn, nltk, dplyr, ggplot2, Flask, ReactJS",
+        "level":"Libraries/Frameworks"
+      },
+      {
+        "name":"Git, Excel, ArcGIS, LaTeX",
+        "level":"Software"
+      },
+      {
+        "name":"English, Chinese, Spanish",
+        "level":"Languages"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Hacker Matcher",
+        "category":"React based webapp for hackathon-goers to find other users and form teams that I created and co-founded",
+        "image":"hm2.jpg",
+        "url":"https://warm-spire-34930.herokuapp.com/"
+      },
+      {
+        "title":"NYC Arrests Data Analysis and Spatial Mapping",
+        "category":"Jupyter notebook of arrest and crime rate visualizations in New York City from 2006 to 2018",
+        "image":"arrest.jpg",
+        "url":"https://nbviewer.jupyter.org/github/anthonyxiang1/nyc-arrests/blob/master/Arrests2.ipynb"
+      },
+      {
+        "title":"Sentiment Analysis of 'The Heist'",
+        "category":"Analysis of lyrical sentiment of Macklemore and Ryan Lewis's 2012 album using Python text mining methods",
+        "image":"sent.jpg",
+        "url":"https://nbviewer.jupyter.org/github/anthonyxiang1/heist-sentiment/blob/master/Heist%20Sentiment%20Analysis.ipynb"
+      },
+      {
+        "title":"Personal Website",
+        "category":"A React based resume website",
+        "image":"website.jpg",
+        "url":""
+      },
+      {
+        "title":"Closeter",
+        "category":"Outfit selecting program in python that takes a csv file of clothes to generate an outfit based on weather",
+        "image":"closeter.jpg",
+        "url":"https://github.com/anthonyxiang1/closeter"
+      },
+      {
+        "title":"Hexadoku Solver",
+        "category":"Java and JavaFX program that solves a 16x16 variation of sudoku",
+        "image":"hexadoku2.jpg",
+        "url":"https://github.com/anthonyxiang1/hexadoku-solver"
+      }
+
+    ]
+  },
+  "personal":{
+    "projects": [
+      {
+        "title":"Correlation Maps",
+        "category":"County level maps of income and unemployment using ArcGIS",
+        "image":"incomeMap.png",
+        "url":"https://github.com/anthonyxiang1/unemployment-map"
+      },
+      {
+        "title":"Just ideas",
+        "category":"Notion blog posts, pics, dataviz, datasets, books, ted talks, travel",
+        "image":"canadian-wanderlust.jpg",
+        "url":"google.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
