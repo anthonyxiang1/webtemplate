@@ -162,37 +162,37 @@
       {
         "title":"Hacker Matcher",
         "category":"React based webapp for hackathon-goers to find other users and form teams that I created and co-founded",
-        "image":"hm2.jpg",
+        "image":"hm2.JPG",
         "url":"https://warm-spire-34930.herokuapp.com/"
       },
       {
         "title":"NYC Arrests Data Analysis and Spatial Mapping",
         "category":"Jupyter notebook of arrest and crime rate visualizations in New York City from 2006 to 2018",
-        "image":"arrest.jpg",
+        "image":"arrest.JPG",
         "url":"https://nbviewer.jupyter.org/github/anthonyxiang1/nyc-arrests/blob/master/Arrests2.ipynb"
       },
       {
         "title":"Sentiment Analysis of 'The Heist'",
         "category":"Analysis of lyrical sentiment of Macklemore and Ryan Lewis's 2012 album using Python text mining methods",
-        "image":"sent.jpg",
+        "image":"sent.JPG",
         "url":"https://nbviewer.jupyter.org/github/anthonyxiang1/heist-sentiment/blob/master/Heist%20Sentiment%20Analysis.ipynb"
       },
       {
         "title":"Personal Website",
         "category":"A React based resume website",
-        "image":"website.jpg",
+        "image":"website.JPG",
         "url":""
       },
       {
         "title":"Closeter",
         "category":"Outfit selecting program in python that takes a csv file of clothes to generate an outfit based on weather",
-        "image":"closeter.jpg",
+        "image":"closeter.JPG",
         "url":"https://github.com/anthonyxiang1/closeter"
       },
       {
         "title":"Hexadoku Solver",
         "category":"Java and JavaFX program that solves a 16x16 variation of sudoku",
-        "image":"hexadoku2.jpg",
+        "image":"hexadoku2.JPG",
         "url":"https://github.com/anthonyxiang1/hexadoku-solver"
       }
 
@@ -209,7 +209,7 @@
       {
         "title":"Just ideas",
         "category":"Notion blog posts, pics, dataviz, datasets, books, ted talks, travel",
-        "image":"canadian-wanderlust.jpg",
+        "image":"idea.png",
         "url":"google.com"
       }
     ]
