@@ -17,7 +17,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>Templated from Tim Baker</li>
+              <li>Built by Anthony Xiang</li>
               <li>Made with ReactJS</li>
            </ul>
 

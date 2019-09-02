@@ -36,7 +36,7 @@ class Home extends Component {
                {/* <h1 className="responsive-headline">
                   <img className="logo"  src={logo} alt="big logo" />
                </h1> */}
-               <h2 >Hi! I'm {name},</h2>
+               <h2 >Hi! I'm {name}.</h2>
                <h3>{area}<span>{occupation}</span> in the <span>Honors Program at SUNY Stony Brook University. </span>
                       I'm a sophomore double majoring in <span>Statistics and Computer Science</span> with a minor in <span>Mathematics.</span>
                       <br></br>
@@ -71,7 +71,7 @@ class Home extends Component {
                I am also a passionate educator. In everything I do, I seek to use my experience 
                and knowledge to benefit those in my community. This is why in my spare time I teach coding to kids, 
                organize hackathons, and serve as a mentor for students transitioning to college. 
-               I also developed an application to help hackathon-goers form teams (see more in project). </p>
+               I also developed an application to help hackathon-goers form teams (see more in projects). </p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
