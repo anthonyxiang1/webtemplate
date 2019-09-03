@@ -53,7 +53,7 @@
         "gpa": "4.0",
         "description":"Undergraduate Teaching Assistant, Chinese Association of Stony Brook, Club Volleyball, Stony Brook Computing Society, Organization of Actuarial Students, SBUHacks Organizing Committee, Student Accessibility Support Center",
         "courses": "Linear Algebra, Probability and Graph Theory, Object-Oriented Programming, Web Genomics Project Team, Probability and Statistics (F’ 19), Data Structures and Algorithms (F’ 19), Operations Research (F’ 19)",     
-        "desc2": "Presidential Scholarship, New York State Academic Excellence Scholarship, Dean's List (F' 18, S'19)"
+        "desc2": "Stony Brook Honors College (top 5% of incoming class), Presidential Scholarship, New York State Academic Excellence Scholarship, Dean's List (F' 18, S'19)"
       },
       {
         "school":"Great Neck South High School",
@@ -178,16 +178,16 @@
         "url":"https://nbviewer.jupyter.org/github/anthonyxiang1/heist-sentiment/blob/master/Heist%20Sentiment%20Analysis.ipynb"
       },
       {
-        "title":"Personal Website",
-        "category":"A React based resume website",
-        "image":"website.JPG",
-        "url":""
-      },
-      {
         "title":"Closeter",
         "category":"Outfit selecting program in python that takes a csv file of clothes to generate an outfit based on weather",
         "image":"closeter.JPG",
         "url":"https://github.com/anthonyxiang1/closeter"
+      },
+      {
+        "title":"Personal Website",
+        "category":"A React based resume website",
+        "image":"website.JPG",
+        "url":""
       },
       {
         "title":"Hexadoku Solver",
