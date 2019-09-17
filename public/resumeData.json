@@ -163,7 +163,7 @@
         "title":"Hacker Matcher",
         "category":"React based webapp for hackathon-goers to find other users and form teams that I created and co-founded",
         "image":"hm2.JPG",
-        "url":"https://warm-spire-34930.herokuapp.com/"
+        "url":"http://hackersmatcher.herokuapp.com/"
       },
       {
         "title":"NYC Arrests Data Analysis and Spatial Mapping",
