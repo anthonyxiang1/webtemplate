@@ -1,8 +1,4 @@
----
-permalink: /index.html
----
-
-This is my personal website using React templated from Tim Baker still in development.
+This is my personal website using React and deployed with Heroku.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
