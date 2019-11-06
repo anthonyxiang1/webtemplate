@@ -49,7 +49,7 @@
       {
         "school":"Stony Brook University",
         "degree":"Bachelor of Science, Double major in Statistics & Computer Science, minor in Mathematics",
-        "graduated":"May 2022",
+        "graduated":"May 2021",
         "gpa": "4.0",
         "description":"Undergraduate Teaching Assistant, Chinese Association of Stony Brook, Club Volleyball, Stony Brook Computing Society, Organization of Actuarial Students, SBUHacks Organizing Committee, Student Accessibility Support Center",
         "courses": "Linear Algebra, Probability and Graph Theory, Object-Oriented Programming, Web Genomics Project Team, Probability and Statistics (F’ 19), Data Structures and Algorithms (F’ 19), Operations Research (F’ 19)",     
@@ -207,10 +207,10 @@
         "url":"https://github.com/anthonyxiang1/unemployment-map"
       },
       {
-        "title":"Just ideas",
+        "title":"Random Thoughts",
         "category":"Notion blog posts, pics, dataviz, datasets, books, ted talks, travel",
         "image":"idea.png",
-        "url":"google.com"
+        "url":"https://www.notion.so/axiang/Blog-kinda-aaead71204a3481da14e07550c60213d"
       }
     ]
   },
